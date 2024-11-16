@@ -3,16 +3,16 @@ package commonFunctions;
 public class Demo {
 public void add()
 {
-	int x=345;
-	int y=4566;
+	int x=57657;
+	int y=345346;
 	int z=x+y;
 	System.out.println(z);
 			
 }
 public void div()
 {
-	int x=564;
-	int y=5;
+	int x=78989;
+	int y=6;
 	int z=x/y;
 	System.out.println(z);
 			
